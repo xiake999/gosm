@@ -3,7 +3,7 @@ package memory
 import (
 	"container/list"
 	"errors"
-	"gosm/session"
+	"github.com/Flynston/gosm/session"
 	"sync"
 	"time"
 )
